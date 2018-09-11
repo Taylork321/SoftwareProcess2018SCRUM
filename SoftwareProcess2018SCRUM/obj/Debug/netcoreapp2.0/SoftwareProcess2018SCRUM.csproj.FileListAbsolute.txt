@@ -1,0 +1,11 @@
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\bin\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.deps.json
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\bin\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.runtimeconfig.json
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\bin\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.runtimeconfig.dev.json
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\bin\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.dll
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\bin\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.pdb
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\obj\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.csprojResolveAssemblyReference.cache
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\obj\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.csproj.CoreCompileInputs.cache
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\obj\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.AssemblyInfoInputs.cache
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\obj\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.AssemblyInfo.cs
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\obj\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.dll
+C:\Users\1486794\source\repos\SoftwareProcess2018SCRUM\SoftwareProcess2018SCRUM\obj\Debug\netcoreapp2.0\SoftwareProcess2018SCRUM.pdb
